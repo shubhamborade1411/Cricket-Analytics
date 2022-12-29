@@ -9,3 +9,8 @@ Then I used Microsoft PowerBI to make amazing Interactive Dashboards to choose f
 - Python
 - Pandas
 
+# Project Outcome
+- After building an Interactive Dashboard, we can find the pool of best players based on any criteria on the flip of the click.
+- I can change the criteria to shortlist the players anytime and it will do the task for us in seconds.
+
+
